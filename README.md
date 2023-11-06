@@ -1,12 +1,12 @@
 # Panduan Penggunaan Git
 
-* [Mengunduh repository ke dalam komputer](http://https://github.com/datascienceid/README#mengunduh-repository)
-* [Memperbarui repository yang telah diunduh](https://github.com/datascienceid/README#memperbarui-repository)
-* [Mengunggah perubahan ke dalam repository](https://github.com/datascienceid/README#mengunggah-perubahan)
-* [Menghapus file](https://github.com/datascienceid/README#menghapus-file)
-* [Branching](https://github.com/datascienceid/README#branching)
-* [Perintah tambahan](https://github.com/datascienceid/README#perintah-tambahan)
-* [gitignore](https://github.com/datascienceid/README#gitignore)
+* [Mengunduh repository ke dalam komputer](https://github.com/Geofanno/Panduan_GitHub#mengunduh-repository)
+* [Memperbarui repository yang telah diunduh](https://github.com/Geofanno/Panduan_GitHub#memperbarui-repository)
+* [Mengunggah perubahan ke dalam repository](https://github.com/Geofanno/Panduan_GitHub#mengunggah-perubahan)
+* [Menghapus file](https://github.com/Geofanno/Panduan_GitHub#menghapus-file)
+* [Branching](https://github.com/Geofanno/Panduan_GitHub#branching)
+* [Perintah tambahan](https://github.com/Geofanno/Panduan_GitHub#perintah-tambahan)
+* [gitignore](https://github.com/Geofanno/Panduan_GitHub#gitignore)
 
 ## Mengunduh Repository
 
